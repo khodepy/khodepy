@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khodepy
 - 👀 I’m interested in Python, linux and security.
 - 🌱 I’m currently learning Python, linux, MySQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ag.4d10.5s1@gmail.com
 I have started learning Python since 2021.
 I just learnt Network+ course.
