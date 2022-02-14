@@ -70,4 +70,4 @@ if choose == '3':
 #This part is going to complete in the next version.
 
 if choose == '4':
-    print('thank you for using cmc data miner v1.0')
+    print('thank you for using cmc data miner v0.1.0')
